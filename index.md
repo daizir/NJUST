@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/daizir/NJUST/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 打算报考南京理工大学研究生的同学们，大家好！我是南理工的学长，希望能帮助到大家！
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+> 我是一名本校往届考研生，希望我自己的一些经验能够让你少走些弯路。
 
-# Header 1
-## Header 2
-### Header 3
+# 南京理工大学怎么样？如何择校？
+- 说一千道一万，大部分考研的学生都是想通过考研来弥补高考的遗憾，我可以很负责任的告诉你，南理工是一所非常优秀的211院所（非985），在名气上要高于一些末流985学校。
+- 考研除了学校的提升需要考虑，最重要的是要选择地域，如果你打算在南京或者江苏发展，最好来南京上学，如果你打算去上海发展，最好去上海读书，我个人认为这点很重要
+- 如果你本科阶段很优秀，在课题组有能够发表SCI的文章，我个人建议你最好跟着你的毕业设计导师继续做下去，如果因为想要提升学校档次而放弃课题组，很大概率会是研究生阶段失去了优势，如果最后仅仅是拿到个理想学校的学位证书，其实这就算是断送了自己的学术生涯，因为拿到这个学位证书的人比比皆是，但是能够发表数篇SCI文章的人竞争力还是很大的。
+- 请大家慎重选择课题组，讲一个我看到的真人真事，某课题组新来了一个外校博士（硕士就读于南京不错的学校），他在自己本校内文章发表了好几篇，算得上是他导师的重点培养对象，博士放弃了原来的课题组，来了这里后选择了相当不错的导师（毕业于全球top院校博士博士后），目前在这里博士延期第二年了，文章还没着落，而他同期的同学已经是他本校的师资博士后了。
+# 我是双非，会有出身歧视吗？
+- 实际上，报考南理工的大部分是双非，本校保研和考研的有一部分去冲更高的学校了，还有小部分985调剂进来的。大部分211的选择考985或者出国发展，985的选择国内top或者出国发展。
+- 也没有大家想的什么本校保护政策，实际上南理工的是为数不多的有[独立的研究生院的学校](https://yz.chsi.com.cn/kyzx/kp/201101/20110119/161300374.html)，研究生的录取工作都取决于研究生院，初试全凭自己努力复习，复试不取决于导师的关系，整个复试过程都是抽签决定的
+- 我今年选择导师时有点晚，中意的导师都招满了，恰好有一个本校的之前和导师商量好的去导师课题组的学生复试被刷掉了，我就如愿选择到了目标导师
+- 说一个我几个本校同学的情况，应届考研时有三个本校的同学，初试成绩很高，按理说不挑专业的话，可以去南大了，可就是选了最火的几个专业，结果低分挺进复试，最后的结果是连校内调剂的机会都没有，直接就是转的非全，说这个例子是想告诉大家，如果你自卑自己的本科出身，想要报考南理工，放心大胆的去吧！
+# 专业怎么选？ 
+- 我个人的建议是，如果你的复习时间很充裕，或者你对自己的复习很有信心，挑你最喜欢的专业
+- 如果你信心不足，先选择你的大方向，然后看这个方向的在哪个学院，然后挑这个学院内录取分数线最低的专业报考，等到选择导师的阶段你可以选择一个你中意的研究方向的导师
+- 研究生都是导师研究什么，你就研究什么，就拿我所在的课题组来说，是同学院下好多不同专业学生组成的
+# 跨专业考研难吗？
+- 说不难那是逗你玩，如果你想跨专业考研，最好提前一年开始准备，有人可能认为我说的有些夸张，但你要知道考研是有复试的，如果你是理学数学专业，跨考工学计算机，这样的难度就不是很大，如果你是汉语言文学跨考化学、物理、机械的，这样的难度就很大。
+- 跨考全程都很累，笔试一结束，甚至说初试复习阶段就要开始着手复试相关科目的复习，不然我们要玄学复试了。
+# 校外/内调剂的要求高吗？
+- 调剂这个不稳定，每年情况都不尽相同，没招满自然要同学院校内调剂，调剂的名额不多，前几年的校外调剂还要求必须是本科985，今年就很宽松的，只要达到复试线就可以申请调剂，因为今年江阴校区开始招生，估计今后都不会对校外调剂设限太高
 
-- Bulleted
-- List
+# 备考流程与计划
+- 到[学信网](https://www.chsi.com.cn/)注册账号以备报名和获取院校信息
+- 到[南理工研究生院网站](http://gs.njust.edu.cn/)获取资料
+- [2021年报考南京理工大学研究生的官方交流QQ群](http://gs.njust.edu.cn/93/06/c4568a234246/page.htm)
+- [2020年南京理工大学硕士研究生复试线](http://gs.njust.edu.cn/6c/67/c4568a224359/page.htm)
+- 应届生的复习时间不多，暑假之前就要开始准备，暑假是黄金复习时期，大概9月份在学信网报名
+- 应届生的考试地点不需要担心，如果你是往届生，报名前后几个月没有南京的社保，你就需要回户籍所在地考试，在考试前要去一次现场确认，大概在11月左右
+- 如果你打算读博士，学术硕士没有笔试，但有面试，专业硕士有笔试。
+- 数学是整个复习阶段的重难点，自主学习能力不好的最好报班，大多数考研的复习都开始于数学
+- 我个人认为数学一难度还是很大的，如果你选择数学二，你只需要复习两本书，如果是数学一，就是三本书，看起来很有压力
+- 大多数学术硕士是数学一，英语一，专业硕士是数学二，英语二。也有例外的情况，但其实学术硕士和专业硕士区别不大，只是培养方向不同，含金量都是一样的，都比非全日制含金量高。
+- 英语全程都要做题，保持手感，仅仅背单词不能再文章中灵活的运用
+- 政治的复习不要太早，如果仅仅是过国家线的话，大概就跟着肖秀荣的八套卷开始复习就好
+- 专业课暑假时候没有开始的话，暑假一结束就要开始复习起来了
+- 考试大概在12月，最好一结束笔试就开始复试的准备工作
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+>  最后推广一下我个人筹建的南理工电报群组和频道
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daizir/NJUST/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> 为方便南京理工大学的学生及准学生们方便交流和学习，以及高考和考研资料分享和获取，特此开设电报群组和频道
+# [南京理工大学](https://t.me/NJUSTS)
+- [机械工程学院](https://t.me/NJUSTSME)
+- [化工学院](https://t.me/NJUSTSCE)
+- [电子工程与光电子技术学院](https://t.me/NJUSTSEOE)
+- [计算机科学与工程学院/人工智能学院](https://t.me/NJUSTSCSE)
+- [经济管理学院](https://t.me/NJUSTSEM)
+- [能源与动力工程学院](https://t.me/NJUSTSECE)
+- [自动化学院](https://t.me/NJUSTSA)
+- [理学院](https://t.me/NJUSTSS)
+- [外国语学院](https://t.me/NJUSTSFS)
+- [公共事务学院](https://t.me/NJUSTSPA)
+- [材料科学与工程学院/格莱特研究院](https://t.me/NJUSTSMSE)
+- [环境与生物工程学院](https://t.me/NJUSTSEBE)
+- [设计艺术与传媒学院](https://t.me/NJUSTSDAM)
+- [钱学森学院/教育实验学院](https://t.me/NJUSTSE)
+- [知识产权学院](https://t.me/NJUSTSIP)
+- [马克思主义学院](https://t.me/NJUSTSMS)
+- [创新创业教育学院](https://t.me/NJUSTP)
+- [继续教育学院](https://t.me/NJUSTSAE)
+- [中法工程师学院](https://t.me/NJUSTSSFE)
+- [紫金学院](https://t.me/NJUSTSZ)
+- [泰州科技学院](https://t.me/NJUSTST)
+- [南京理工大学考研](https://t.me/NJUSTMaster)
